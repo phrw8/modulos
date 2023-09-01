@@ -1,4 +1,4 @@
-var mensagem = function (nome) {
-    return "ola " + nome + " o gigante da colina despertou";
+var mensagem = function (nome,mensagen) {
+    return  nome + mensagen 
   }; 
   module.exports = mensagem;
